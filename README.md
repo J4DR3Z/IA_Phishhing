@@ -5,7 +5,7 @@
 ![Banner](https://github.com/user-attachments/assets/37e5c608-6433-4c86-b964-d9f751d7b807)
 
 
-**Autores:** Julian Andres Benavides, Javier David Villanueva, Jefferson Holguin
+**Autores:** Julian Andres Jaramillo, Javier David Villanueva, Jefferson Holguin
 
 **Objetivo:**  
 Análisis y clasificación de URLs utilizando varios modelos de machine learning (Decision Tree, Random Forest, SVM y Redes Neuronales) para predecir características y comportamientos asociados, evaluando el rendimiento de cada modelo mediante métricas de precisión y error.
