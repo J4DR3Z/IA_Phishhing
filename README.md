@@ -21,6 +21,6 @@ Análisis y clasificación de URLs utilizando varios modelos de machine learning
 
 ## Enlaces:
 - **Video del proyecto:** [enlace](#)  
-- **Código del proyecto:** [enlace](#) 
+- **Código del proyecto:** [enlace](https://colab.research.google.com/drive/1rlqyUkUKlZKIqmmCRm2XeVrTghtAlKO9#scrollTo=mju061oqHUam) 
 - **Repositorio de GitHub:** [Repositorio en GitHub](https://github.com/J4DR3Z/IA_Phishhing/new)
 
