@@ -2,7 +2,8 @@
 
 ## Detección de Phishing utilizando Modelos de Aprendizaje Automáticos y Redes Neuronales
 
-![Banner](IA_Phishhing/Banner.jpg) 
+![Banner](https://github.com/user-attachments/assets/37e5c608-6433-4c86-b964-d9f751d7b807)
+
 
 **Autores:** Julian Andres Benavides, Javier David Villanueva, Jefferson Holguin
 
