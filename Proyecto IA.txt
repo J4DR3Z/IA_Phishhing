@@ -1,0 +1,2 @@
+https://www.kaggle.com/datasets/sid321axn/malicious-urls-dataset
+https://www.kaggle.com/datasets/harisudhan411/phishing-and-legitimate-urls
