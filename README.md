@@ -8,7 +8,7 @@
 **Autores:** Julian Andres Jaramillo, Javier David Villanueva, Jefferson Holguin
 
 **Objetivo:**  
-Análisis y clasificación de URLs utilizando varios modelos de machine learning (Decision Tree, Random Forest, SVM y Redes Neuronales) para predecir características y comportamientos asociados, evaluando el rendimiento de cada modelo mediante métricas de precisión y error.
+Clasificar URLs utilizando machine learning y modelos/metodos vistos en la materia Inteligencia Atrificial 1.
 
 **Dataset:**  
 1. [Malicious URLs Dataset](https://www.kaggle.com/datasets/sid321axn/malicious-urls-dataset)  
