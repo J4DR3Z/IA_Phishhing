@@ -21,7 +21,7 @@ Clasificar URLs utilizando machine learning y modelos/metodos vistos en la mater
 - **Redes Neuronales (Neural Networks)**: Red neuronal profunda que utiliza capas densas con activación ReLU en las capas ocultas y sigmoidal en la capa de salida para clasificar los datos.
 
 ## Enlaces:
-- **Video del proyecto:** [Video en Youtube](#)  
+- **Video del proyecto:** [Video en Youtube](https://www.youtube.com/watch?v=jPnKU1WabUo)  
 - **Código del proyecto:** [Proyecto en Drive(archivos adicionales)](https://drive.google.com/drive/folders/1Wc1HDqcWp4P4JptqXFZs6jGdahk7DWdo?usp=drive_link) 
 - **Repositorio de GitHub:** [Repositorio en GitHub](https://github.com/J4DR3Z/IA_Phishhing)
 
